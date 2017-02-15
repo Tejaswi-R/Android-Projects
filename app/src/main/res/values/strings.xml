@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">firedatabase</string>
+
+    <string name="sign_in">Sign In</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="fresh_config">Fresh Config</string>
+    <string name="cause_crash">Cause Crash</string>
+</resources>
